@@ -1,8 +1,8 @@
 [submodule "Libraries/SDL2"]
 	path = Libraries/SDL2
-	url = git@github.com:juanjp600/SDL.git
+	url = https://github.com/juanjp600/SDL.git
 	branch = main-2.0.14
 
 [submodule "Tests/doctest"]
 	path = Tests/doctest
-	url = git@github.com:Saalvage/doctest.git
+	url = https://github.com/Saalvage/doctest.git
