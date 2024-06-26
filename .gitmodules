@@ -6,4 +6,3 @@
 [submodule "Tests/doctest"]
 	path = Tests/doctest
 	url = https://github.com/Saalvage/doctest.git
-	branch = main
